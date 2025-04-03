@@ -4,6 +4,7 @@ I’m **Belise Dusabe**, a Geospatial Data Scientist with expertise in GIS and R
 
 - 🌱 **Currently working on**: Projects related to geospatial data analytics, sustainable agriculture, Climate change and Geohealth.
 - 📚 **Education**: Master’s in Geo-Information Science and Earth Observation from the [University of Twente](https://www.itc.nl/).
+- 📖 **Reaseach Paper**: [EO-Derived Geospatial Data for Monitoring Food and Nutrition Security: A Case Study of Rwanda](https://ieeexplore.ieee.org/document/10640900)
 - 📖 **Thesis**: [Foodgravity: understand food flows using classic gravity model and explainable artificial intelligence techniques](https://essay.utwente.nl/103280/) 
 - 💬 **Ask me about**: 
   - Geospatial technologies 
