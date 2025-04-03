@@ -15,7 +15,7 @@ I’m **Belise Dusabe**, a Geospatial Data Scientist with expertise in GIS and R
 - 👯 **Looking to collaborate on**: Projects involving **sustainability**, **agriculture**, **health**, and **environmental research**.
 - 📫 **How to reach me**: 
   - [LinkedIn](www.linkedin.com/in/belise-dusabe-6ab27b134)
-  - [GitHub]()
+  - [GitHub](https://github.com/Belised)
   - [Email](mailto:duslyz05@gmail.com)
     
 - ⚡ **Fun fact**: I enjoy **Graphic design** and visual storytelling, which complements my work by enhancing my ability to communicate complex concepts effectively.
